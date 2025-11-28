@@ -76,7 +76,3 @@ I am passionate about **improving software quality** and collaborating with deve
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duran-unverdi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
