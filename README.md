@@ -8,10 +8,8 @@
   <a href="https://linkedin.com/in/duran-ünverdi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="40" height="40" />
-  </a>
-  <a href="https://github.com/duran-unverdi" target="_blank">
+ 
+  <a href="https://github.com/DuranUnverdi" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40" />
   </a>
 </p>
